@@ -1,5 +1,5 @@
 # Grupo-CRM
-Repositorio de Trabajo de Ing de Software
+Repositorio de Trabajo de Ingenieria de Software
 
 ### Indice
 * [Resumen Ejecutivo] (#resumenejecutivo)
@@ -9,20 +9,17 @@ Repositorio de Trabajo de Ing de Software
 * [Entregables] (#entregables)
 
 ### <a name="resumenejecutivo"></a>Resumen Ejecutivo
-Resumen Ejecutivo
-CRM es una aplicación que pretende facilitar información a ciudadanos, turistas locales y extranjeros. Que pretendan conocer las rutas mapeadas de los buses de la capital de Nicaragua para poder desplazarse por estos mismos, y pretende concientizar al extranjero e informar sobre tarifas aproximadas de los taxis capitalinos para que los turistas tengan información al negociar con los taxistas.
-CRM pretende tener distintos módulos en los cuales se incluye un modelo de atracciones turísticas, donde estás tengan su posición geográfica para poder llegar más fácilmente a todos estos lugares. Módulo de hoteles clasificados según estrellas, de este módulo se pretende tener un pago opcional para que los hoteles que decidan pagar puedan estar destacados por sobre los demás. Módulo de restaurantes donde estarán separados los restaurantes por diferentes filtros como tipo de comida, etc. Y en este mismo también será incluido el pago opcional para los distintos restaurantes. Módulo de Publicidad donde se podrá observar las promociones del día  de los restaurantes, hoteles, lugares turísticos que paguen por participar en este módulo.  
-El principal objetivo de la aplicación es el poder brindar información destacada  de los puntos más importantes culturales, hoteleros y de transporte a la población que habita en Nicaragua y también a los extranjeros que visiten Nicaragua.
+El proyecto CRM consiste en una aplicación que tiene como objetivo facilitar la información del transporte publico y privado a ciudadanos, turistas locales y extranjeros que tengan la intencion de movilizarse dentro de la ciudad de Managua ya sea en bus o en taxi. Esta aplicacion tambien pretende concientizar al extranjero e informar sobre tarifas aproximadas de los taxis capitalinos para que los turistas tengan conocimiento de el precio justo al negociar con los taxistas.
+CRM pretende tener distintos módulos en los cuales se incluye un modelo de atracciones turísticas, donde estás tengan su posición geográfica para poder llegar más fácilmente a todos estos lugares. Módulo de hoteles clasificados según estrellas, de este módulo se pretende obtener ingresos con un pago opcional para que los hoteles que decidan pagar puedan estar destacados por sobre los demás. Módulo de restaurantes donde estarán separados los restaurantes por diferentes filtros como tipo de comida, precio, calidad, popularidad, etc. Y en este mismo también será incluido el pago opcional para los distintos restaurantes. Módulo de Publicidad donde se podrá observar las promociones del día  de los restaurantes, hoteles, lugares turísticos que paguen por participar en este módulo.  
+El principal objetivo de la aplicación es el poder brindar información destacada  de los puntos más importantes culturales, hoteleros y de transporte a la población Nicaraguese y a los extranjeros que visiten Nicaragua.
 
 ### <a name="descripciontecnica"></a>Descripcion Tecnica
-
+CRM sera una aplicacion movil desarrollada para funcionar en dispositivos Android que utilizen de el API 15 en adelante, se desarrollara en el IDE oficial de android (Android Studio) y sera distribuida de manera gratuita atraves de el app store "Google Play Store".
 
 ### <a name="publicopotencial"></a>Publico Potencial
-Público Potencial
 La aplicación CRM está enfocado al mercado nicaragüense local y turistas empezando por la capital. Pretende brindar información gratuita a usuarios sin embargo tendrá una opción paga para diferentes empresas en el mercado nicaragüense como hoteles, restaurantes y puntos turísticos de Nicaragua. El programa tendrá la escalabilidad suficiente para poder expandirse a todo Nicaragua.
 
 ### <a name="integrantes"></a>Integrantes
-Integrantes
 Carlos Hayn
 -	GitHub Handle: Hayn95
 -	Rol: Lider del Grupo
@@ -37,7 +34,6 @@ Marvin Chavarria
 -	Responsabilidad: Encargado de reunir información necesaria para culminar el proyecto. Ayuda en codificación y pruebas del sistema.
 	 
 ### <a name="entregables"></a>Entregables
-Entregables
 1-	Prototipo de aplicación CRM (APK)
 a-	Módulo de buses
 b-	Módulo de publicidad
