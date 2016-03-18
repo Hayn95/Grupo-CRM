@@ -18,7 +18,8 @@ CRM sera una aplicacion movil desarrollada para funcionar en dispositivos Androi
 
 ## <a name="publicopotencial"></a>Publico Potencial
 
-La aplicación CRM está enfocado al mercado nicaragüense local y turistas empezando por la capital. Pretende brindar información gratuita a usuarios sin embargo tendrá una opción paga para diferentes empresas en el mercado nicaragüense como hoteles, restaurantes y puntos turísticos de Nicaragua. El programa tendrá la escalabilidad suficiente para poder expandirse a todo Nicaragua.
+La aplicación CRM estara disponible en cualquier parte del mundo y para cualquier persona con dispositivo android que desee o necesite informacion sobre como  movilizarse dentro de la ciudad de Managua. 
+Ademas la aplicacion contendra informacion para turistas de diferentes empresas y negocios en el mercado nicaragüense como hoteles, restaurantes y puntos turísticos de Nicaragua. El programa tendrá la escalabilidad suficiente para poder expandirse a todo Nicaragua.
 
 ##Integrantes
 
