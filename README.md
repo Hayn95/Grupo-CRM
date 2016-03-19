@@ -24,7 +24,7 @@ Ademas la aplicacion contendra informacion de diferentes empresas y negocios en 
 ##Integrantes
 
  * Carlos Hayn
-	* GitHub Handle: Hayn95
+	* GitHub Handle: [Hayn95] (https://github.com/Hayn95)
 	* Rol: Lider del Grupo
 	* Responsabilidad: Encargado de toma de decisiones y comunicarse con el profesor. Ayuda  en codificación y pruebas del sistema.
 	
