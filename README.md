@@ -34,7 +34,7 @@ Ademas la aplicacion contendra informacion de diferentes empresas y negocios en 
 	* Responsabilidad: Encargado de codificación del proyecto.
 	
  * Marvin Chavarria
-	* GitHub Handle:
+	* GitHub Handle:  [Marvinchvb] (https://github.com/marvinchvb)
 	* Rol: Lider de Investigacion
 	* Responsabilidad: Encargado de reunir información necesaria para culminar el proyecto. Ayuda en codificación y pruebas del sistema.
 	 
